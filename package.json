@@ -1,0 +1,30 @@
+{
+  "name": "mux-demux-net",
+  "version": "0.0.1",
+  "description": "Generate TCP servers that serve MDM streams",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/mux-demux-net.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/mux-demux-net",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/mux-demux-net/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "mux-demux": "~2.1.2"
+  },
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/mux-demux-net/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
