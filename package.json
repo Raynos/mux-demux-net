@@ -1,6 +1,6 @@
 {
   "name": "mux-demux-net",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate TCP servers that serve MDM streams",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
