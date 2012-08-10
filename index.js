@@ -22,7 +22,7 @@ function MuxDemuxServer(handler, port) {
     }
     
     var server = net.createServer(openMuxDemux)
-    server.listen(port)
+    return server.listen(port)
 
     function bubbleError(error) {
         connection.emit("error", error)
